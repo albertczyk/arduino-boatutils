@@ -5,6 +5,7 @@
     - Arduino MEGA
     - SIM808 GPS/GSM module (EVB-V3.2)
     - JSN-SR04T waterproof ultrasound sensor
+    - HD44780 2x16 LCD display with I2C interface
 
 
   By Alberto López Navarro 2023 - GPL-3 license
